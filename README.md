@@ -6,7 +6,7 @@ If none of the outputs make sense, it might mean:
 - The string is **not encoded with a Caesar cipher**  
 - Or it **requires additional decryption steps**, either before or after using this script.
 
-**NOTE: On this repository, you have an example of a message encrypted with Caesar 19 that has been decripted with caesar 7**
+**NOTE: On this repository, you have an example of a message encrypted with Caesar 11 that has been decripted with caesar 15**
 
 ## Installation
 ``` bash
