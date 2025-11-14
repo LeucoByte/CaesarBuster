@@ -16,5 +16,5 @@ chmod +x caesar-buster.sh
 
 ## Use
 ``` bash
-bash caesar-butcher.sh
+bash caesar-buster.sh
 ```
